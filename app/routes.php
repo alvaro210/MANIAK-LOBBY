@@ -15,3 +15,5 @@ Route::get('/', function()
 {
 	return View::make('index');
 });
+
+Route::post('contact', ['as' => 'contact', 'uses' => 'HomeController@contact']);

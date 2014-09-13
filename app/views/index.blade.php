@@ -7,18 +7,18 @@
     <div class="subtitle"></div>
     <div class="title_prox">próximamente</div>
     <div class="title_indications">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget</div>
-    <form class="form_draw">
-        <input type="text" name="nombre" placeholder="Nombre">
-        <input type="email" name="email" placeholder="Email">
-        <input type="text" name="asunto" placeholder="Asunto">
-        <textarea name="mensaje" placeholder="Mensaje"></textarea>
-        <div class="button_wrap clearfix">
-            <div  class="submit_btn"><span>En</span>trar</div>
-            <!--<input type="submit">-->
+    {{ Form::open(['route' => 'contact','class'=>'form_draw']) }}
+    <input type="text" name="nombre" placeholder="Nombre">
+    <input type="email" name="email" placeholder="Email">
+    <input type="text" name="asunto" placeholder="Asunto">
+    <textarea name="mensaje" placeholder="Mensaje"></textarea>
+    <div class="button_wrap clearfix">
+        <div  class="submit_btn"><span>En</span>trar</div>
+        <!--<input type="submit">-->
 
-        </div>
+    </div>
+    {{Form::close()}}
 
-    </form>
     <div class="logo_black_wrap">
         <img src="{{URL::to('/images/logo_negro.jpg')}}">
     </div>

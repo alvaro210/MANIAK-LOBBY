@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg_element.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg_image2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/colabreg-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/colabreg-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/colabreg-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/colabreg-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/form_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo_negro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo_negro2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/colabreg-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layout.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/media-queries.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/index.blade.php" afterPath="$PROJECT_DIR$/app/views/index.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MANIAK-LOBBY.iws" />
@@ -45,12 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="833">
+            <state line="20" column="0" selection-start="820" selection-end="820" vertical-scroll-proportion="0.59859157" vertical-offset="0" max-vertical-offset="833">
               <folding>
-                <element signature="n#style#0;n#li#0;n#ul#1;n#div#5;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#1;n#div#6;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,7 +42,7 @@
       <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="28" selection-start="448" selection-end="448" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="238">
+            <state line="18" column="33" selection-start="490" selection-end="497" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
@@ -68,16 +51,16 @@
       <file leaf-file-name="layout.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="39" selection-start="446" selection-end="484" vertical-scroll-proportion="-12.115385" vertical-offset="76" max-vertical-offset="714">
+            <state line="23" column="39" selection-start="446" selection-end="484" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="28" selection-start="2971" selection-end="2971" vertical-scroll-proportion="0.71308726" vertical-offset="1921" max-vertical-offset="3298">
+            <state line="138" column="28" selection-start="2971" selection-end="2971" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="3298">
               <folding />
             </state>
           </provider>
@@ -98,10 +81,10 @@
       <list>
         <option value="$PROJECT_DIR$/public/css/css.css" />
         <option value="$PROJECT_DIR$/public/css/media-queries.css" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/app/views/index.blade.php" />
         <option value="$PROJECT_DIR$/app/views/layout.blade.php" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/index.blade.php" />
       </list>
     </option>
   </component>
@@ -257,6 +240,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MANIAK-LOBBY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MANIAK-LOBBY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -266,7 +267,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sushiito" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistory" value="ro" />
   </component>
@@ -317,14 +318,20 @@
       <created>1410592587617</created>
       <updated>1410592587617</updated>
     </task>
+    <task id="LOCAL-00001" summary="-Second Commit">
+      <created>1410619080823</created>
+      <updated>1410619080823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33045357" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -355,6 +362,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="-Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Second Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -364,7 +373,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="5" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
           <folding>
-            <element signature="n#style#0;n#li#0;n#ul#1;n#div#5;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#6;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -397,33 +406,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="28" selection-start="2971" selection-end="2971" vertical-scroll-proportion="0.0" vertical-offset="1921" max-vertical-offset="3298">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="39" selection-start="446" selection-end="484" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="448" selection-end="448" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="238">
+        <state line="18" column="33" selection-start="490" selection-end="497" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="690" selection-end="690" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="833">
+        <state line="20" column="0" selection-start="820" selection-end="820" vertical-scroll-proportion="0.59859157" vertical-offset="0" max-vertical-offset="833">
           <folding>
-            <element signature="n#style#0;n#li#0;n#ul#1;n#div#5;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#6;n#div#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="39" selection-start="446" selection-end="484" vertical-scroll-proportion="-12.115385" vertical-offset="76" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="28" selection-start="2971" selection-end="2971" vertical-scroll-proportion="0.71308726" vertical-offset="1921" max-vertical-offset="3298">
-          <folding />
         </state>
       </provider>
     </entry>
