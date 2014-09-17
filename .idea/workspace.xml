@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="">
+    <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="-Change background position">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MANIAK-LOBBY.iws" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="56" selection-start="124" selection-end="124" vertical-scroll-proportion="19.384615" vertical-offset="589" max-vertical-offset="1156">
+            <state line="32" column="72" selection-start="1571" selection-end="1571" vertical-scroll-proportion="-8.076923" vertical-offset="334" max-vertical-offset="1156">
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#1;n#div#7;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -100,7 +101,16 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="33" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.6846543" vertical-offset="308" max-vertical-offset="3638">
+            <state line="181" column="21" selection-start="3683" selection-end="3683" vertical-scroll-proportion="0.59865093" vertical-offset="2722" max-vertical-offset="3672">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="3417">
               <folding />
             </state>
           </provider>
@@ -132,7 +142,6 @@
       <list>
         <option value="$PROJECT_DIR$/public/css/css.css" />
         <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/app/config/app.php" />
         <option value="$PROJECT_DIR$/app/Lobby/LobbyForm.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/start/global.php" />
@@ -140,9 +149,10 @@
         <option value="$PROJECT_DIR$/app/config/mail.php" />
         <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/public/css/media-queries.css" />
-        <option value="$PROJECT_DIR$/app/views/index.blade.php" />
         <option value="$PROJECT_DIR$/app/views/emails/contacto.php" />
         <option value="$PROJECT_DIR$/app/views/layout.blade.php" />
+        <option value="$PROJECT_DIR$/app/config/app.php" />
+        <option value="$PROJECT_DIR$/app/views/index.blade.php" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
       </list>
     </option>
@@ -294,7 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="storage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,37 +322,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MANIAK-LOBBY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MANIAK-LOBBY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="storage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="emails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,7 +455,27 @@
       <created>1410939729924</created>
       <updated>1410939729924</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-Change background position">
+      <created>1410939815334</created>
+      <updated>1410939815334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-Change background position">
+      <created>1410940337681</created>
+      <updated>1410940337681</updated>
+    </task>
+    <task id="LOCAL-00008" summary="-Change background position">
+      <created>1410940445160</created>
+      <updated>1410940445160</updated>
+    </task>
+    <task id="LOCAL-00009" summary="-Change background position">
+      <created>1410942066284</created>
+      <updated>1410942066284</updated>
+    </task>
+    <task id="LOCAL-00010" summary="-Change distance logo_wrap">
+      <created>1410942690710</created>
+      <updated>1410942690710</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -537,7 +541,8 @@
     <MESSAGE value="-Email works" />
     <MESSAGE value="-Change logo" />
     <MESSAGE value="-Change background position" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Change background position" />
+    <MESSAGE value="-Change distance logo_wrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Change distance logo_wrap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -610,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="57" selection-start="4409" selection-end="4409" vertical-scroll-proportion="-15.692307" vertical-offset="1683" max-vertical-offset="3417">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="32" selection-start="446" selection-end="446" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="782">
@@ -665,15 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="56" selection-start="124" selection-end="124" vertical-scroll-proportion="19.384615" vertical-offset="589" max-vertical-offset="1156">
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#1;n#div#7;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/emails/contacto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="100" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-3.5" vertical-offset="895" max-vertical-offset="1513">
@@ -691,9 +680,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="3417">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="72" selection-start="1571" selection-end="1571" vertical-scroll-proportion="-8.076923" vertical-offset="334" max-vertical-offset="1156">
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#7;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.6846543" vertical-offset="308" max-vertical-offset="3638">
+        <state line="181" column="21" selection-start="3683" selection-end="3683" vertical-scroll-proportion="0.59865093" vertical-offset="2722" max-vertical-offset="3672">
           <folding />
         </state>
       </provider>
