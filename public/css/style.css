@@ -171,6 +171,7 @@ body{
 }*/
 .logo_black_wrap{
     text-align: center;
+    margin-top: -10px;
 }
 .logo_black_wrap img{
     margin-left: 10px;

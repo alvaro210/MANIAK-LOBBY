@@ -30,7 +30,7 @@
         <input type="text" name="asunto" placeholder="Asunto">
         <textarea name="mensaje" placeholder="Mensaje"></textarea>-->
         <div class="button_wrap clearfix">
-            <div  class="submit_btn" id="submit_btn"><span>En</span>trar</div>
+            <div  class="submit_btn" id="submit_btn"><span>En</span>viar</div>
             <!--<input type="submit">-->
 
         </div>
