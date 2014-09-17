@@ -61,7 +61,7 @@
 
 </head>
 <body>
-<div style="width:100%;text-align: center;margin-bottom: 30px;"><img src="<?= URL::to('/images/logo.png') ?>"></div>
+<div style="width:100%;text-align: center;margin-bottom: 30px;"><img src="<?= URL::to('/images/logo2.png') ?>"></div>
 <div style="width:100%;text-align: center;"><h1>Información</h1></div>
 <table class="rwd-table">
     <tr>

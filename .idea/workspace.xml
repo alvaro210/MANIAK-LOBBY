@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/index.blade.php" afterPath="$PROJECT_DIR$/app/views/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/emails/contacto.php" afterPath="$PROJECT_DIR$/app/views/emails/contacto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layout.blade.php" afterPath="$PROJECT_DIR$/app/views/layout.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MANIAK-LOBBY.iws" />
@@ -27,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="56" selection-start="124" selection-end="124" vertical-scroll-proportion="0.14991182" vertical-offset="0" max-vertical-offset="1156">
+            <state line="5" column="56" selection-start="124" selection-end="124" vertical-scroll-proportion="19.384615" vertical-offset="589" max-vertical-offset="1156">
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#1;n#div#7;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -61,7 +62,7 @@
       <file leaf-file-name="contacto.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/emails/contacto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="20" selection-start="715" selection-end="715" vertical-scroll-proportion="-11.115385" vertical-offset="357" max-vertical-offset="1513">
+            <state line="63" column="100" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-3.5" vertical-offset="895" max-vertical-offset="1513">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -74,7 +75,9 @@
         <entry file="file://$PROJECT_DIR$/app/config/mail.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="124" column="0" selection-start="4340" selection-end="4340" vertical-scroll-proportion="-81.07692" vertical-offset="0" max-vertical-offset="2210">
-              <folding />
+              <folding>
+                <marker date="1410932171960" expanded="true" signature="20:4337" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,16 +94,16 @@
       <file leaf-file-name="layout.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="42" selection-start="484" selection-end="484" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="714">
+            <state line="23" column="4" selection-start="446" selection-end="477" vertical-scroll-proportion="-11.115385" vertical-offset="102" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="1" selection-start="1731" selection-end="1973" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="3604">
+            <state line="42" column="33" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.6846543" vertical-offset="308" max-vertical-offset="3638">
               <folding />
             </state>
           </provider>
@@ -110,7 +113,9 @@
         <entry file="file://$PROJECT_DIR$/public/css/media-queries.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="16" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-              <folding />
+              <folding>
+                <marker date="1410934951214" expanded="true" signature="76:665" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,7 +134,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/public/css/css.css" />
-        <option value="$PROJECT_DIR$/app/views/layout.blade.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
         <option value="$PROJECT_DIR$/app/Lobby/LobbyForm.php" />
@@ -137,11 +141,12 @@
         <option value="$PROJECT_DIR$/app/start/global.php" />
         <option value="$PROJECT_DIR$/app/Lobby/Forms/LobbyForm.php" />
         <option value="$PROJECT_DIR$/app/config/mail.php" />
-        <option value="$PROJECT_DIR$/app/views/emails/contacto.php" />
         <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/public/css/media-queries.css" />
         <option value="$PROJECT_DIR$/app/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/emails/contacto.php" />
+        <option value="$PROJECT_DIR$/app/views/layout.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
       </list>
     </option>
   </component>
@@ -461,7 +466,11 @@
       <created>1410935894706</created>
       <updated>1410935894706</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-Change logo">
+      <created>1410936777628</created>
+      <updated>1410936777628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -525,7 +534,8 @@
     <MESSAGE value="-Second Commit" />
     <MESSAGE value="-Third Commit" />
     <MESSAGE value="-Email works" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Email works" />
+    <MESSAGE value="-Change logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Change logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -629,7 +639,9 @@
     <entry file="file://$PROJECT_DIR$/app/config/mail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="124" column="0" selection-start="4340" selection-end="4340" vertical-scroll-proportion="-81.07692" vertical-offset="0" max-vertical-offset="2210">
-          <folding />
+          <folding>
+            <marker date="1410932171960" expanded="true" signature="20:4337" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -642,9 +654,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/media-queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding>
+            <marker date="1410934951214" expanded="true" signature="76:665" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="56" selection-start="124" selection-end="124" vertical-scroll-proportion="19.384615" vertical-offset="589" max-vertical-offset="1156">
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#7;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/emails/contacto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="20" selection-start="715" selection-end="715" vertical-scroll-proportion="-11.115385" vertical-offset="357" max-vertical-offset="1513">
+        <state line="63" column="100" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-3.5" vertical-offset="895" max-vertical-offset="1513">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -654,31 +684,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="42" selection-start="484" selection-end="484" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="714">
+        <state line="23" column="4" selection-start="446" selection-end="477" vertical-scroll-proportion="-11.115385" vertical-offset="102" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="1" selection-start="1731" selection-end="1973" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="3604">
+        <state line="42" column="33" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.6846543" vertical-offset="308" max-vertical-offset="3638">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/media-queries.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="56" selection-start="124" selection-end="124" vertical-scroll-proportion="0.14991182" vertical-offset="0" max-vertical-offset="1156">
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#1;n#div#7;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

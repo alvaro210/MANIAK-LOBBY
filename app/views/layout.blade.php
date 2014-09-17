@@ -21,7 +21,7 @@
 
     </head>
     <body>
-    <!--<div class="bg_elements"></div>-->
+    <div class="bg_elements"></div>
         <div class="container-general clearfix">
             <!--<div class="left_column"></div>-->
 

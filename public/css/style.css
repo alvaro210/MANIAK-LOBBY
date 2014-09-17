@@ -36,10 +36,11 @@ body,html{
 }
 
 body{
-    background-image: url('../images/bg_image2.jpg');
+    background-image: url('../images/bg.jpg');
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center center;
+    background-attachment: fixed;
     font-family: colabreg;
 
 }
@@ -49,10 +50,10 @@ body{
     left: 0px;
     width: 100%;
     height: 100%;
-    background-image:url('../images/bg_image.jpg');
+    background-image:url('../images/bg_image2.jpg');
     background-position: bottom left;
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size:100% auto;
 }
 .container-general{
    /* background-image: url('../images/bg_image.jpg');
@@ -86,7 +87,8 @@ body{
 }
 
 .logo{
-    margin-top: 15%;
+   /* margin-top: 15%;*/
+    margin-top: 12%;
     width: 100%;
     text-align: center;
 }
