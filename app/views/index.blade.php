@@ -3,7 +3,7 @@
 
 @section('content')
 <div class="right_column">
-    <div class="logo"><img src="{{URL::to('/images/logo.png')}}"></div>
+    <div class="logo"><img src="{{URL::to('/images/logo2.png')}}"></div>
     <div class="subtitle"></div>
     <div class="title_prox">próximamente</div>
     <div class="subtitle_prox">patria <span>/</span> acueducto</div>
