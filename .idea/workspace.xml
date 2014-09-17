@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="-Change background position">
+    <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -101,7 +101,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="181" column="21" selection-start="3683" selection-end="3683" vertical-scroll-proportion="0.59865093" vertical-offset="2722" max-vertical-offset="3672">
+            <state line="115" column="19" selection-start="2515" selection-end="2515" vertical-scroll-proportion="0.59865093" vertical-offset="1600" max-vertical-offset="3706">
               <folding />
             </state>
           </provider>
@@ -120,9 +120,7 @@
         <entry file="file://$PROJECT_DIR$/public/css/media-queries.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="16" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-              <folding>
-                <marker date="1410934951214" expanded="true" signature="76:665" placeholder="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -475,7 +473,15 @@
       <created>1410942690710</created>
       <updated>1410942690710</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="-Change margin-top footer">
+      <created>1410942746046</created>
+      <updated>1410942746046</updated>
+    </task>
+    <task id="LOCAL-00012" summary="-Change margin-top logo">
+      <created>1410942887953</created>
+      <updated>1410942887953</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,7 +548,9 @@
     <MESSAGE value="-Change logo" />
     <MESSAGE value="-Change background position" />
     <MESSAGE value="-Change distance logo_wrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Change distance logo_wrap" />
+    <MESSAGE value="-Change margin-top footer" />
+    <MESSAGE value="-Change margin-top logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Change margin-top logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -654,15 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/media-queries.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding>
-            <marker date="1410934951214" expanded="true" signature="76:665" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/emails/contacto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="100" selection-start="1097" selection-end="1097" vertical-scroll-proportion="-3.5" vertical-offset="895" max-vertical-offset="1513">
@@ -696,9 +695,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/media-queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="181" column="21" selection-start="3683" selection-end="3683" vertical-scroll-proportion="0.59865093" vertical-offset="2722" max-vertical-offset="3672">
+        <state line="115" column="19" selection-start="2515" selection-end="2515" vertical-scroll-proportion="0.59865093" vertical-offset="1600" max-vertical-offset="3706">
           <folding />
         </state>
       </provider>
