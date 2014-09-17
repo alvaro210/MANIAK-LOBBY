@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4fdfcaa-161a-469e-badf-77f7aa4135e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/emails/contacto.php" afterPath="$PROJECT_DIR$/app/views/emails/contacto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layout.blade.php" afterPath="$PROJECT_DIR$/app/views/layout.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MANIAK-LOBBY.iws" />
@@ -470,7 +467,11 @@
       <created>1410936777628</created>
       <updated>1410936777628</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-Change background position">
+      <created>1410939729924</created>
+      <updated>1410939729924</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,7 +536,8 @@
     <MESSAGE value="-Third Commit" />
     <MESSAGE value="-Email works" />
     <MESSAGE value="-Change logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Change logo" />
+    <MESSAGE value="-Change background position" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Change background position" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
