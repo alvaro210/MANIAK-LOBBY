@@ -1,1 +1,27 @@
 /*CSS  Queries*/
+
+
+@media all and (max-width: 1599px) and (min-width: 801px){
+.container-general{
+    width: 800px !important;
+}
+    .right_column{
+        width: 60% !important;
+        margin-left: 40% !important;
+        /*float: left;*/
+        min-height: 100%;
+        height: auto;
+        /*background-image:url('../images/form_bg.png');
+        background-position: center bottom;*/
+        /*   background-color:green;*/
+    }
+    .footer li{
+        list-style: none;
+        text-transform: uppercase;
+        float: left;
+        padding-right:30px;
+        font-size: 8px !important;
+        letter-spacing: 2px;
+        font-family: colabreg;
+    }
+}
