@@ -71,7 +71,7 @@ body{
     background-image:url('../images/bg_image4.jpg');
     background-position: bottom left;
     background-repeat: no-repeat;
-    background-size:100% auto;
+    background-size:cover;
 }
 .container-general{
    /* background-image: url('../images/bg_image.jpg');
