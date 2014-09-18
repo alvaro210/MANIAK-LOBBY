@@ -3,11 +3,11 @@
 
 @section('content')
 <div class="right_column">
-    <div class="logo"><img src="{{URL::to('/images/logo2.png')}}"></div>
+    <div class="logo"><img src="{{URL::to('/images/logo3.png')}}"></div>
     <div class="subtitle"></div>
     <div class="title_prox">próximamente</div>
     <div class="subtitle_prox">patria <span>/</span> acueducto</div>
-    <div class="title_indications">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget</div>
+    <div class="title_indications">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget Cum sociis natoque</div>
 
     @if (Session::has('mensaje_request'))
     {{ Session::get('mensaje_request') }}
@@ -42,7 +42,7 @@
     <div class="footer clearfix">
         <ul><li><a href="#"><span>Le</span>gal</a></li><li><a href="#"><span>Te</span>rminos de Uso</a></li><li><a href="#"><span>Pr</span>ivacidad</a></li></ul>
         <ul class="siguenos">
-            <li style="padding-right: 0px;"><a href="#"><img src="{{URL::to('/images/fb.png')}}"></a><a href="#"><img src="{{URL::to('/images/tw.png')}}"></a></li>
+            <li style="padding-right: 0px;"><a href="#"><img src="{{URL::to('/images/fb2.png')}}"></a><a href="#"><img src="{{URL::to('/images/tw2.png')}}"></a></li>
             <li>siguenos en</li>
         </ul>
     </div>
