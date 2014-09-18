@@ -195,7 +195,7 @@ body{
     cursor: pointer;
     text-transform: uppercase;
     font-size: 12px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 .submit_btn span{
