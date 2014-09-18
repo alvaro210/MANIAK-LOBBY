@@ -7,7 +7,7 @@
     <div class="subtitle"></div>
     <div class="title_prox">próximamente</div>
     <div class="subtitle_prox">patria <span>/</span> acueducto</div>
-    <div class="title_indications">SLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget Cum sociis natoqueasd</div>
+    <!--<div class="title_indications">SLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget Cum sociis natoqueasd</div>-->
 
     @if (Session::has('mensaje_request'))
     {{ Session::get('mensaje_request') }}

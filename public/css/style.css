@@ -123,7 +123,8 @@ body{
     text-align: center;
 }
 .title_prox{
-    margin-top: 30px;
+    /*margin-top: 30px;*/
+    margin-top: 49px;
     color: #3ae434;
     font-size:24px;
     letter-spacing: 9px;
@@ -138,6 +139,7 @@ body{
     /*color:#2c2c2c;*/
     color: rgba(0,0,0,.7);
     margin-top: 3px;
+    margin-bottom: 60px;
 }
 .subtitle_prox span{
     color: #3ae434;
