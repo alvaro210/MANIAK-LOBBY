@@ -216,6 +216,14 @@ body{
 .logo_black_wrap img{
     margin-left: 10px;
 }
+.more_logos{
+    width: 100%;
+    height: auto;
+}
+.more_logos img{
+    width:100px;
+    margin-right: 145px;
+}
 .footer{
     width: 100% ;
     height: auto ;

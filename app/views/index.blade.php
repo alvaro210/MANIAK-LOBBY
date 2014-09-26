@@ -37,8 +37,18 @@
     {{Form::close()}}
 
     <div class="logo_black_wrap">
+
         <img src="{{URL::to('/images/logo_negro.jpg')}}">
+
     </div>
+    <div  class="more_logos">
+        <img src="{{URL::to('/images/logo_numei_black.png')}}">
+        <img src="{{URL::to('/images/logo_promodesa_black.png')}}">
+        <img style="margin:0px;" src="{{URL::to('/images/logo_santoscoy_black.png')}}">
+    </div>
+
+
+
     <div class="footer clearfix">
         <ul><li><a href="#"><span>Le</span>gal</a></li><li><a href="#"><span>Te</span>rminos de Uso</a></li><li><a href="#"><span>Pr</span>ivacidad</a></li></ul>
         <ul class="siguenos">

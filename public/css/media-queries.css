@@ -15,6 +15,16 @@
         background-position: center bottom;*/
         /*   background-color:green;*/
     }
+    .logo_black_wrap img{
+        width:90px;
+    }
+    .more_logos img{
+        width: 70px !important;
+        margin-right: 130px !important;
+    }
+    .more_logos img:last-child{
+        margin-right: 0px !important;
+    }
     .footer li{
         list-style: none;
         text-transform: uppercase;
